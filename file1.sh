@@ -1,2 +1,3 @@
-Hello world!
-New line added
+echo Hello world!
+#echo New line added
+echo "via ssh"
